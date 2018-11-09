@@ -1,0 +1,19 @@
+{
+  "name": "spryker-feature/order-threshold",
+  "description": "Order Threshold [feature]",
+  "type": "metapackage",
+  "license": "proprietary",
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.1",
+    "spryker-feature/cart": "~2018.11.0",
+    "spryker-feature/checkout": "~2018.11.0",
+    "spryker-feature/order-management": "~2018.11.0",
+    "spryker-feature/prices": "~2018.11.0",
+    "spryker-feature/spryker-core-e-commerce": "~2018.11.0",
+    "spryker-shop/sales-order-threshold-widget": "^1.1.0",
+    "spryker/sales-order-threshold": "^1.1.2",
+    "spryker/sales-order-threshold-data-import": "^0.1.0",
+    "spryker/sales-order-threshold-gui": "^1.1.0"
+  }
+}
