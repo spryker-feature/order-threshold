@@ -15,7 +15,7 @@
     "spryker-shop/sales-order-threshold-widget": "^1.1.0",
     "spryker/sales-order-threshold": "^1.1.3",
     "spryker/sales-order-threshold-data-import": "^0.1.0",
-    "spryker/sales-order-threshold-gui": "^1.3.0"
+    "spryker/sales-order-threshold-gui": "^1.4.0"
   },
   "extra": {
     "branch-alias": {
