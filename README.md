@@ -1,6 +1,6 @@
 # Spryker Feature: Order Threshold
 
-Ability to set a min/max order value and define an order fee when order value exceeds the threshold.
+The Order Threshold features allows to set a min/max order value and define a fee to be paid when order value exceeds the threshold.
 
 ## Installation
 
