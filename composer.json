@@ -14,7 +14,14 @@
   },
   "extra": {
     "branch-alias": {
-      "dev-master": "202001.x-dev"
+      "dev-master": "202006.x-dev"
     }
+  },
+  "suggest": {
+    "spryker-feature/cart": "Recommended feature dependency.",
+    "spryker-feature/checkout": "Recommended feature dependency.",
+    "spryker-feature/order-management": "Recommended feature dependency.",
+    "spryker-feature/prices": "Recommended feature dependency.",
+    "spryker-feature/spryker-core-e-commerce": "Recommended feature dependency."
   }
 }
