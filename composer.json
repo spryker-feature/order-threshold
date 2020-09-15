@@ -21,7 +21,6 @@
     "spryker-feature/cart": "Recommended feature dependency.",
     "spryker-feature/checkout": "Recommended feature dependency.",
     "spryker-feature/order-management": "Recommended feature dependency.",
-    "spryker-feature/prices": "Recommended feature dependency.",
-    "spryker-feature/spryker-core-e-commerce": "Recommended feature dependency."
+    "spryker-feature/prices": "Recommended feature dependency."
   }
 }
