@@ -13,7 +13,6 @@ composer require spryker-feature/order-threshold
 - [spryker-feature/checkout](https://github.com/spryker-feature/checkout)
 - [spryker-feature/order-management](https://github.com/spryker-feature/order-management)
 - [spryker-feature/prices](https://github.com/spryker-feature/prices)
-- [spryker-feature/spryker-core-e-commerce](https://github.com/spryker-feature/spryker-core-e-commerce)
 
 If you don't include the feature dependencies, make sure you use the respective modules instead.
 
