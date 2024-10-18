@@ -19,3 +19,4 @@ If you don't include the feature dependencies, make sure you use the respective 
 ## Optional modules
 - [SalesOrderThresholdExtension](https://github.com/spryker/sales-order-threshold-extension) (Extension)
 - [SalesOrderThresholdGuiExtension ^1.1.0](https://github.com/spryker/sales-order-threshold-gui-extension) (Extension)
+- [SalesOrderThresholdsRestApi ^1.0.0](https://github.com/spryker/sales-order-thresholds-rest-api) (Legacy Glue)
